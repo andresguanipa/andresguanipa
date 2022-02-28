@@ -1,12 +1,12 @@
 # Welcome! ⚡ 
 
 <p>
-  <img align="left" width="457" height="230" src="https://blog.dankicode.com/wp-content/uploads/2018/03/introdu%C3%A7%C3%A3o-ao-javascript.png">
+  <img align="left" width="427" height="228" src="https://blog.dankicode.com/wp-content/uploads/2018/03/introdu%C3%A7%C3%A3o-ao-javascript.png">
   
 ### My Personal Profile 
 ---
 
-My Name is Andres Guanipa.  I'm...
+My Name is Andres Guanipa.  I'm a...
 
 :mortar_board: Informatics Engineering Student <br>
 :computer: MERN Stack Developer <br>
