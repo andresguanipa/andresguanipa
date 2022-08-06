@@ -20,7 +20,7 @@ My Name is Andres Guanipa.  I'm a...
 
 # 👨‍💼 About me
 
-*I am an Informatics Engineering student at Rafael Belloso Chacín University (URBE) in Maracaibo, Venezuela; currently in the 11th trimester. With very good grades.*
+*I am an Software Enginner at Rafael Belloso Chacín University (URBE) in Maracaibo, Venezuela; With very good grades.*
 
 *Passionate about what I do, I enjoy learning new things and making amazing applications.*
 
