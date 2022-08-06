@@ -8,7 +8,7 @@
 
 My Name is Andres Guanipa.  I'm a...
 
-:mortar_board: Informatics Engineer<br>
+:mortar_board: Software Engineer<br>
 :computer: MERN Stack Developer <br>
 :book: Self-taught person <br>
 👨‍💻 Geek <br>
