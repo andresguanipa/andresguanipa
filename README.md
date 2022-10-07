@@ -65,7 +65,7 @@ My Name is Andres Guanipa.  I'm a...
 [![Generic badge](https://img.shields.io/badge/Sequelize-✓-brightgreen.svg?style=flat&labelColor=106d9f)](https://sequelize.org/)
 
 
-🏃‍ At the moment, I'm studying Redux and React Native and then I would like to study Next.JS
+🏃‍ At the moment, I'm studying React Native and then I would like to study Next.JS
 
 <br>
 
