@@ -89,7 +89,7 @@ My Name is Andres Guanipa.  I'm a...
 ---
 
 # My current stats 📊
-[![andreseguanipa1's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreseguanipa1&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![andreseguanipa1's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresguanipa&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
