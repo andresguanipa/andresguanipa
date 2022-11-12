@@ -57,19 +57,17 @@ My Name is Andres Guanipa.  I'm a...
 [![Generic badge](https://img.shields.io/badge/IndexedDB-✓-brightgreen.svg?style=for-the-badge&labelColor=106d9f)](https://developer.mozilla.org/es/docs/Web/API/IndexedDB_API)
 <br>
 ### :wrench: Frameworks & Libraries
-[![Generic badge](https://img.shields.io/badge/ReactJS-70%25-brightgreen.svg?style=flat&labelColor=106d9f&logo=react)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/ExpressJS-80%25-brightgreen.svg?style=flat&labelColor=106d9f&logo=express)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Spring-65%25-brightgreen.svg?style=flat&labelColor=106d9f&logo=spring)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Bootstrap-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=bootstrap)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/GIT-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=git)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Nodemon-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=nodemon)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/WordPress-✓-brightgreen.svg?style=flat&labelColor=106d9f&logo=wordpress)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/ReactJS-70%25-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=react)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/ExpressJS-80%25-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=express)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Spring-65%25-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=spring)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Bootstrap-✓-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=bootstrap)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/GIT-✓-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=git)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Nodemon-✓-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=nodemon)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/WordPress-✓-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=wordpress)](https://shields.io/)
 <br>
 ### :paperclip: Other tools and libraries
-[![Generic badge](https://img.shields.io/badge/Sequelize-✓-brightgreen.svg?style=flat&labelColor=106d9f)](https://sequelize.org/)
+[![Generic badge](https://img.shields.io/badge/Sequelize-✓-brightgreen.svg?style=for-the-badge&labelColor=106d9f)](https://sequelize.org/)
 
-
-🏃‍ At the moment, I'm studying React Native and then I would like to study Next.JS
 
 <br>
 
