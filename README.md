@@ -40,7 +40,7 @@ My Name is Andres Guanipa.  I'm a...
 
 # 🧠 My knowledge
 ### :computer: Main programming languages & development technologies
-[![Generic badge](https://img.shields.io/badge/JavaScript-85%25-brightgreen.svg?style=flat&logo=javascript)](https://javascript.info/)
+[![Generic badge](https://img.shields.io/badge/JavaScript-85%25-brightgreen.svg?style=for-the-badge&logo=javascript)](https://javascript.info/)
 [![Generic badge](https://img.shields.io/badge/NodeJS-80%25-brightgreen.svg?style=flat&logo=Node.js)](https://nodejs.org/)
 [![Generic badge](https://img.shields.io/badge/PHP-75%25-brightgreen.svg?style=flat&logo=php)](https://www.php.net/)
 [![Generic badge](https://img.shields.io/badge/Python-50%25-brightgreen.svg?style=flat&logo=python)](https://www.python.org/)
