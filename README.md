@@ -41,20 +41,20 @@ My Name is Andres Guanipa.  I'm a...
 # 🧠 My knowledge
 ### :computer: Main programming languages & development technologies
 [![Generic badge](https://img.shields.io/badge/JavaScript-85%25-brightgreen.svg?style=for-the-badge&logo=javascript)](https://javascript.info/)
-[![Generic badge](https://img.shields.io/badge/NodeJS-80%25-brightgreen.svg?style=flat&logo=Node.js)](https://nodejs.org/)
-[![Generic badge](https://img.shields.io/badge/PHP-75%25-brightgreen.svg?style=flat&logo=php)](https://www.php.net/)
-[![Generic badge](https://img.shields.io/badge/Python-50%25-brightgreen.svg?style=flat&logo=python)](https://www.python.org/)
-[![Generic badge](https://img.shields.io/badge/TypeScript-70%25-brightgreen.svg?style=flat&logo=typescript)](https://www.typescriptlang.org/docs/home.html)
-[![Generic badge](https://img.shields.io/badge/Java-65%25-brightgreen.svg?style=flat&logo=java)](https://www.java.com/)
-[![Generic badge](https://img.shields.io/badge/HTML5-88%25-brightgreen.svg?style=flat&logo=html5)](https://html.spec.whatwg.org/multipage/)
-[![Generic badge](https://img.shields.io/badge/JSON-85%25-brightgreen.svg?style=flat&logo=json)](https://www.json.org/json-en.html)
-[![Generic badge](https://img.shields.io/badge/NPM-✓-brightgreen.svg?style=flat&logo=npm)](https://www.npmjs.com/~jasp402)
+[![Generic badge](https://img.shields.io/badge/NodeJS-80%25-brightgreen.svg?style=for-the-badge&logo=Node.js)](https://nodejs.org/)
+[![Generic badge](https://img.shields.io/badge/PHP-75%25-brightgreen.svg?style=for-the-badge&logo=php)](https://www.php.net/)
+[![Generic badge](https://img.shields.io/badge/Python-50%25-brightgreen.svg?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Generic badge](https://img.shields.io/badge/TypeScript-70%25-brightgreen.svg?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/docs/home.html)
+[![Generic badge](https://img.shields.io/badge/Java-65%25-brightgreen.svg?style=for-the-badge&logo=Java&logoColor=white)](https://www.java.com/)
+[![Generic badge](https://img.shields.io/badge/HTML5-88%25-brightgreen.svg?style=for-the-badge&logo=html5)](https://html.spec.whatwg.org/multipage/)
+[![Generic badge](https://img.shields.io/badge/JSON-85%25-brightgreen.svg?style=for-the-badge&logo=json)](https://www.json.org/json-en.html)
+[![Generic badge](https://img.shields.io/badge/NPM-✓-brightgreen.svg?style=for-the-badge&logo=npm)](https://www.npmjs.com/~jasp402)
 <br>
 ### :floppy_disk: Database technologies & Structured Query Language
-[![Generic badge](https://img.shields.io/badge/MongoDB-70%25-brightgreen.svg?style=flat&labelColor=40A4C4&logo=mongodb)](https://docs.mongodb.com/)
-[![Generic badge](https://img.shields.io/badge/MySQL-80%25-brightgreen.svg?style=flat&labelColor=40A4C4&logo=mysql)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/PostgreSQL-60%25-brightgreen.svg?style=flat&labelColor=40A4C4&logo=postgresql)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/IndexedDB-✓-brightgreen.svg?style=flat&labelColor=106d9f)](https://developer.mozilla.org/es/docs/Web/API/IndexedDB_API)
+[![Generic badge](https://img.shields.io/badge/MongoDB-70%25-brightgreen.svg?style=for-the-badge&labelColor=40A4C4&logo=mongodb)](https://docs.mongodb.com/)
+[![Generic badge](https://img.shields.io/badge/MySQL-80%25-brightgreen.svg?style=for-the-badge&labelColor=40A4C4&logo=mysql)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/PostgreSQL-60%25-brightgreen.svg?style=for-the-badge&labelColor=40A4C4&logo=postgresql)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/IndexedDB-✓-brightgreen.svg?style=for-the-badge&labelColor=106d9f)](https://developer.mozilla.org/es/docs/Web/API/IndexedDB_API)
 <br>
 ### :wrench: Frameworks & Libraries
 [![Generic badge](https://img.shields.io/badge/ReactJS-70%25-brightgreen.svg?style=flat&labelColor=106d9f&logo=react)](https://shields.io/)
