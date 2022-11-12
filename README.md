@@ -20,13 +20,15 @@ My Name is Andres Guanipa.  I'm a...
 
 # 👨‍💼 About me
 
-*I am an Software Enginner at Rafael Belloso Chacín University (URBE) in Maracaibo, Venezuela; With very good grades.*
+*I'm a Software Engineer at Rafael Belloso Chacín University (URBE) in Maracaibo, Venezuela with very good grades.*
 
 *Passionate about what I do, I enjoy learning new things and making amazing applications.*
 
-*I am constantly learning new things about Programming and Web Development. With almost two years in this profession.*
+*I am also a self-taught person. I am constantly learning new things about Programming and Web Development with almost two years in this profession.*
 
-*I learn quickly thanks to the enthusiasm I have for technology.*
+*I am a fast learner thanks to my enthusiasm for technology.*
+
+*I am currently working in the position of Software Development Engineer at Servieduca (URBE), my specific role is in the Backend development area using the Java framework, Spring.*
 
 *Also, I always say:*
 
