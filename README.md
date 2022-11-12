@@ -67,6 +67,9 @@ My Name is Andres Guanipa.  I'm a...
 <br>
 ### :paperclip: Other tools and libraries
 [![Generic badge](https://img.shields.io/badge/Sequelize-✓-brightgreen.svg?style=for-the-badge&labelColor=106d9f)](https://sequelize.org/)
+[![Generic badge](https://img.shields.io/badge/Hibernate-70%25-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=hibernate)](https://hibernate.org/)
+
+
 
 
 <br>
