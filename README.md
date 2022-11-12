@@ -45,7 +45,7 @@ My Name is Andres Guanipa.  I'm a...
 [![Generic badge](https://img.shields.io/badge/PHP-75%25-brightgreen.svg?style=for-the-badge&logo=php)](https://www.php.net/)
 [![Generic badge](https://img.shields.io/badge/Python-50%25-brightgreen.svg?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Generic badge](https://img.shields.io/badge/TypeScript-70%25-brightgreen.svg?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/docs/home.html)
-[![Generic badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com/)
+[![Generic badge](https://img.shields.io/badge/Java-65%25-brightgreen.svg?style=for-the-badge&logo=Java&logoColor=white)](https://www.java.com/)
 [![Generic badge](https://img.shields.io/badge/HTML5-88%25-brightgreen.svg?style=for-the-badge&logo=html5)](https://html.spec.whatwg.org/multipage/)
 [![Generic badge](https://img.shields.io/badge/JSON-85%25-brightgreen.svg?style=for-the-badge&logo=json)](https://www.json.org/json-en.html)
 [![Generic badge](https://img.shields.io/badge/NPM-✓-brightgreen.svg?style=for-the-badge&logo=npm)](https://www.npmjs.com/~jasp402)
