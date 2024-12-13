@@ -24,11 +24,9 @@ My Name is Andres Guanipa.  I'm a...
 
 *Passionate about what I do, I enjoy learning new things and making amazing applications.*
 
-*I am also a self-taught person. I am constantly learning new things about Programming and Web Development with almost two years in this profession.*
+*I am also a self-taught person. I am constantly learning new things about Programming and Web Development with almost four years in this profession.*
 
 *I am a fast learner thanks to my enthusiasm for technology.*
-
-*I am currently working in the position of Software Development Engineer at Servieduca (URBE), my specific role is in the Backend development area using the Java framework, Spring.*
 
 *Also, I always say:*
 
