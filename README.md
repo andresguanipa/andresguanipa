@@ -47,14 +47,17 @@ My Name is Andres Guanipa.  I'm a...
 [![Generic badge](https://img.shields.io/badge/NPM-✓-brightgreen.svg?style=for-the-badge&logo=npm)](https://www.npmjs.com/~jasp402)
 
 <br>
-### :floppy_disk: Database technologies & Structured Query Language
+
+:floppy_disk: Database technologies & Structured Query Language
 
 [![Generic badge](https://img.shields.io/badge/MongoDB-70%25-brightgreen.svg?style=for-the-badge&labelColor=40A4C4&logo=mongodb)](https://docs.mongodb.com/)
 [![Generic badge](https://img.shields.io/badge/MySQL-80%25-brightgreen.svg?style=for-the-badge&labelColor=40A4C4&logo=mysql)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/PostgreSQL-✓-brightgreen.svg?style=for-the-badge&labelColor=40A4C4&logo=postgresql)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/IndexedDB-✓-brightgreen.svg?style=for-the-badge&labelColor=106d9f)](https://developer.mozilla.org/es/docs/Web/API/IndexedDB_API)
+
 <br>
-### :wrench: Frameworks & Libraries
+
+:wrench: Frameworks & Libraries
 
 [![Generic badge](https://img.shields.io/badge/NextJS-✓-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=next.js)](https://nextjs.org/)
 [![Generic badge](https://img.shields.io/badge/ReactJS-✓-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=react)](https://shields.io/)
@@ -66,7 +69,8 @@ My Name is Andres Guanipa.  I'm a...
 [![Generic badge](https://img.shields.io/badge/WordPress-✓-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=wordpress)](https://shields.io/)
 
 <br>
-### :paperclip: Other tools and libraries
+
+:paperclip: Other tools and libraries
 
 [![Generic badge](https://img.shields.io/badge/Sequelize-✓-brightgreen.svg?style=for-the-badge&labelColor=106d9f)](https://sequelize.org/)
 [![Generic badge](https://img.shields.io/badge/Hibernate-70%25-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=hibernate)](https://hibernate.org/)
