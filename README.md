@@ -56,7 +56,7 @@ My Name is Andres Guanipa.  I'm a...
 <br>
 ### :wrench: Frameworks & Libraries
 
-[![Generic badge](https://img.shields.io/badge/NextJS-✓-brightgreen.svg?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![Generic badge](https://img.shields.io/badge/NextJS-✓-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=next.js)](https://nextjs.org/)
 [![Generic badge](https://img.shields.io/badge/ReactJS-✓-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=react)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/ExpressJS-✓-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=express)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Spring-75%25-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=spring)](https://shields.io/)
@@ -67,5 +67,6 @@ My Name is Andres Guanipa.  I'm a...
 
 <br>
 ### :paperclip: Other tools and libraries
+
 [![Generic badge](https://img.shields.io/badge/Sequelize-✓-brightgreen.svg?style=for-the-badge&labelColor=106d9f)](https://sequelize.org/)
 [![Generic badge](https://img.shields.io/badge/Hibernate-70%25-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=hibernate)](https://hibernate.org/)
