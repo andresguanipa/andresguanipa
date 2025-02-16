@@ -48,12 +48,14 @@ My Name is Andres Guanipa.  I'm a...
 
 <br>
 ### :floppy_disk: Database technologies & Structured Query Language
+
 [![Generic badge](https://img.shields.io/badge/MongoDB-70%25-brightgreen.svg?style=for-the-badge&labelColor=40A4C4&logo=mongodb)](https://docs.mongodb.com/)
 [![Generic badge](https://img.shields.io/badge/MySQL-80%25-brightgreen.svg?style=for-the-badge&labelColor=40A4C4&logo=mysql)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/PostgreSQL-✓-brightgreen.svg?style=for-the-badge&labelColor=40A4C4&logo=postgresql)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/IndexedDB-✓-brightgreen.svg?style=for-the-badge&labelColor=106d9f)](https://developer.mozilla.org/es/docs/Web/API/IndexedDB_API)
 <br>
 ### :wrench: Frameworks & Libraries
+
 [![Generic badge](https://img.shields.io/badge/NextJS-✓-brightgreen.svg?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![Generic badge](https://img.shields.io/badge/ReactJS-✓-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=react)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/ExpressJS-✓-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=express)](https://shields.io/)
