@@ -26,8 +26,6 @@ My Name is Andres Guanipa.  I'm a...
 
 *I am also a self-taught person. I am constantly learning new things about Programming and Web Development with four years in this profession.*
 
-*I am a fast learner thanks to my enthusiasm for technology.*
-
 *Also, I always say:*
 
 >**The only way to do great work is to love what you do.**
