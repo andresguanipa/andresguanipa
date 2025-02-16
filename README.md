@@ -38,30 +38,33 @@ My Name is Andres Guanipa.  I'm a...
 
 # 🧠 My knowledge
 ### :computer: Main programming languages & development technologies
-[![Generic badge](https://img.shields.io/badge/JavaScript-85%25-brightgreen.svg?style=for-the-badge&logo=javascript)](https://javascript.info/)
-[![Generic badge](https://img.shields.io/badge/NodeJS-80%25-brightgreen.svg?style=for-the-badge&logo=Node.js)](https://nodejs.org/)
+[![Generic badge](https://img.shields.io/badge/JavaScript-✓-brightgreen.svg?style=for-the-badge&logo=javascript)](https://javascript.info/)
+[![Generic badge](https://img.shields.io/badge/NodeJS-✓-brightgreen.svg?style=for-the-badge&logo=Node.js)](https://nodejs.org/)
 [![Generic badge](https://img.shields.io/badge/PHP-75%25-brightgreen.svg?style=for-the-badge&logo=php)](https://www.php.net/)
 [![Generic badge](https://img.shields.io/badge/Python-50%25-brightgreen.svg?style=for-the-badge&logo=python)](https://www.python.org/)
-[![Generic badge](https://img.shields.io/badge/TypeScript-70%25-brightgreen.svg?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/docs/home.html)
-[![Generic badge](https://img.shields.io/badge/Java-65%25-brightgreen.svg?style=for-the-badge&logo=Java&logoColor=white)](https://www.java.com/)
+[![Generic badge](https://img.shields.io/badge/TypeScript-✓-brightgreen.svg?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/docs/home.html)
+[![Generic badge](https://img.shields.io/badge/Java-✓-brightgreen.svg?style=for-the-badge&logo=Java&logoColor=white)](https://www.java.com/)
 [![Generic badge](https://img.shields.io/badge/HTML5-88%25-brightgreen.svg?style=for-the-badge&logo=html5)](https://html.spec.whatwg.org/multipage/)
 [![Generic badge](https://img.shields.io/badge/JSON-85%25-brightgreen.svg?style=for-the-badge&logo=json)](https://www.json.org/json-en.html)
 [![Generic badge](https://img.shields.io/badge/NPM-✓-brightgreen.svg?style=for-the-badge&logo=npm)](https://www.npmjs.com/~jasp402)
+
 <br>
 ### :floppy_disk: Database technologies & Structured Query Language
 [![Generic badge](https://img.shields.io/badge/MongoDB-70%25-brightgreen.svg?style=for-the-badge&labelColor=40A4C4&logo=mongodb)](https://docs.mongodb.com/)
 [![Generic badge](https://img.shields.io/badge/MySQL-80%25-brightgreen.svg?style=for-the-badge&labelColor=40A4C4&logo=mysql)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/PostgreSQL-60%25-brightgreen.svg?style=for-the-badge&labelColor=40A4C4&logo=postgresql)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/PostgreSQL-✓-brightgreen.svg?style=for-the-badge&labelColor=40A4C4&logo=postgresql)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/IndexedDB-✓-brightgreen.svg?style=for-the-badge&labelColor=106d9f)](https://developer.mozilla.org/es/docs/Web/API/IndexedDB_API)
 <br>
 ### :wrench: Frameworks & Libraries
-[![Generic badge](https://img.shields.io/badge/ReactJS-70%25-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=react)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/ExpressJS-80%25-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=express)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Spring-65%25-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=spring)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/NextJS-✓-brightgreen.svg?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![Generic badge](https://img.shields.io/badge/ReactJS-✓-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=react)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/ExpressJS-✓-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=express)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Spring-75%25-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=spring)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Bootstrap-✓-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=bootstrap)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/GIT-✓-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=git)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Nodemon-✓-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=nodemon)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/WordPress-✓-brightgreen.svg?style=for-the-badge&labelColor=106d9f&logo=wordpress)](https://shields.io/)
+
 <br>
 ### :paperclip: Other tools and libraries
 [![Generic badge](https://img.shields.io/badge/Sequelize-✓-brightgreen.svg?style=for-the-badge&labelColor=106d9f)](https://sequelize.org/)
